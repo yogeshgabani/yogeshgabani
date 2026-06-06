@@ -22,3 +22,19 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&width=600&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;TypeScript+Lover;Building+NPM+Packages;Always+Learning+New+Things" />
 </p>
+
+## 🚀 About Me
+
+💻 Full Stack Developer with experience in modern web technologies.
+
+🌱 Currently learning **System Design, DevOps & AI**
+
+⚡ Passionate about creating scalable applications and reusable libraries.
+
+📦 Building and maintaining NPM packages for the JavaScript ecosystem.
+
+📫 Reach me at: **gabaniyogeshl@gmail.com**
+
+<!-- 🌐 Portfolio: **https://your-portfolio.com**
+
+---

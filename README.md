@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 📫 Reach me at: **gabaniyogeshl@gmail.com**
 
-<!-- 🌐 Portfolio: **https://your-portfolio.com**
+<!-- 🌐 Portfolio: **https://your-portfolio.com** -->
 
 ---
 ## 🛠️ Tech Stack

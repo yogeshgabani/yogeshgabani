@@ -22,6 +22,11 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&width=600&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;TypeScript+Lover;Building+NPM+Packages;Always+Learning+New+Things" />
 </p>
+-->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&width=600&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;TypeScript+Lover;Building+NPM+Packages;Always+Learning+New+Things" />
+</p>
+
 
 ## 🚀 About Me
 
@@ -70,15 +75,85 @@ Here are some ideas to get you started:
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
 </p>
 
+---
+
+## 📦 My NPM Packages
+### 1. React Next Loader
+
+A powerful React Loader library with:
+
+✅ 100+ Modern Designs
+
+✅ Multiple Animations
+
+✅ React / Next.js / Vite Support
+
+🔗 NPM:
+https://www.npmjs.com/package/react-next-loader
+
+🔗 Link:
+https://react-next-loader.netlify.app/
+
+---
+
+### 2. React Date Time Kit
+
+A modern date and time picker.
+
+Features:
+
+✅ Date Picker
+
+✅ Timer Picker
+
+✅ Date Pange Picker
+
+✅ Time Range Picker
+
+✅ Date Time Picker
+
+✅ Tailwind Compatible
+
+🔗 NPM:
+https://www.npmjs.com/package/react-datetime-kit
+🔗 Link:
+https://react-datetime-picker.netlify.app
+
+---
+### 2. React Date Time Kit
+
+A modern date and time picker.
+
+Features:
+
+✅ Date Picker
+
+✅ Timer Picker
+
+✅ Date Pange Picker
+
+✅ Time Range Picker
+
+✅ Date Time Picker
+
+✅ Tailwind Compatible
+
+🔗 NPM:
+https://www.npmjs.com/package/react-datetime-kit
+🔗 Link:
+https://react-datetime-picker.netlify.app
+
+---
+
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yogeshgabani&show_icons=true&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yogeshgabani&theme=tokyonight"/>
 </p>
 
 ---
@@ -86,7 +161,7 @@ Here are some ideas to get you started:
 ## 📈 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogeshgabani&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -94,7 +169,7 @@ Here are some ideas to get you started:
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&margin-w=10"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=yogeshgabani&theme=tokyonight&margin-w=10"/>
 </p>
 
 ---
@@ -102,15 +177,15 @@ Here are some ideas to get you started:
 ## 🤝 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/yogeshgabani">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="https://twitter.com/YOUR_TWITTER">
+<a href="https://twitter.com/gabaniyogesh">
   <img src="https://skillicons.dev/icons?i=twitter" />
 </a>
 
-<a href="mailto:your-email@gmail.com">
+<a href="mailto:your-gabaniyogesh@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 </p>

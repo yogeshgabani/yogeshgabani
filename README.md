@@ -120,28 +120,22 @@ https://www.npmjs.com/package/react-datetime-kit
 https://react-datetime-picker.netlify.app
 
 ---
-### 2. React Date Time Kit
+### 3. React Toaster Message
 
-A modern date and time picker.
+A modern toast message like sonner.
 
 Features:
 
-✅ Date Picker
+✅ Smooth Framer-Motion-powered animations (slide, blur-fade, spring, scale, bounce)
 
-✅ Timer Picker
+✅ Swipe-to-dismiss (touch + mouse) with velocity detection
 
-✅ Date Pange Picker
-
-✅ Time Range Picker
-
-✅ Date Time Picker
-
-✅ Tailwind Compatible
+✅ Light / dark / system / glass / gradient themes via CSS variables
 
 🔗 NPM:
-https://www.npmjs.com/package/react-datetime-kit
+https://www.npmjs.com/react-toaster-message
 🔗 Link:
-https://react-datetime-picker.netlify.app
+https://react-toaster-message.netlify.app
 
 ---
 

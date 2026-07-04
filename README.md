@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 📦 Building and maintaining NPM packages for the JavaScript ecosystem.
 
-📫 Reach me at: **gabaniyogeshl@gmail.com**
+📫 Reach me at: **gabaniyogesh@gmail.com**
 
 <!-- 🌐 Portfolio: **https://your-portfolio.com** -->
 
